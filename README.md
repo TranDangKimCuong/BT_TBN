@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TranDangKimCuong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TranDangKimCuong/TranDangKimCuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LẬP TRÌNH THIẾT BỊ NHÚNG 
+BT1:
+  https://www.tinkercad.com/things/4MKQtHhkxMp
+BT2:
+  
+BT3:
+  https://www.tinkercad.com/things/8UydxJLCcd8
